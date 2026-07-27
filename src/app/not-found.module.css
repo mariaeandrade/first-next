@@ -5,13 +5,23 @@
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    background: radial-gradient(circle,rgb(251, 185, 63) 0%, rgba(252, 70, 107, 1) 100%);
+    background: radial-gradient(circle,rgb(0, 0, 0) 0%, rgb(114, 113, 113) 100%);
        text-align: center;
 }
+
 
 .content {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 10rem;
+    margin-top: 15em;
 }
+
+.titulo {
+    margin: 0;
+    color: aliceblue;
+    background-clip: text;
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
+    font-weight: 800;
+}
+

@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-    title: 'FrontEnd - Codeverse',
-    description: 'Template do Codeverse',
+    title: 'Next.js',
+    description: 'Next.js e erro 404',
 };
 
 export default function RootLayout({ children }) {

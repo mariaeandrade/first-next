@@ -4,7 +4,7 @@ export default function Home() {
     return (
         <main className={styles.container}>
             <div className={styles.content}>
-                <h1 className={styles.title}>Next.jsx</h1>
+                <h1 className={styles.title}>Next.js</h1>
                 <h3 className={styles.subtitle}>O que é?</h3>
 
                 <p className={styles.tagline}>
